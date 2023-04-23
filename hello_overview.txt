@@ -1,17 +1,18 @@
-Overview
+# Overview
 
-This is a simple Hello World Python program
+{This is a simple Hello World Python program}
 
-I created this program to verify I have correctly integrated Visual Studio Code, Python, Git, and GitHub to make a program.
+{I created this program to verify I have correctly integrated Visual Studio Code, Python, Git, and GitHub to make a program.}
 
-Software Demo Video (http://youtube.link.goes.here)
+[Software Demo Video] (http://youtube.link.goes.here)
 
-Development Environment
-
+# Development Environment
+{
 * Visual Studio Code
 * Python 3.10.11 64-bit
 * GitHib using Git. 
+}
 
-Useful Websites
+# Useful Websites
 
 * [Hello World Video Demonstration](https://video.byui.edu/media/t/1_zyyx43ke)
